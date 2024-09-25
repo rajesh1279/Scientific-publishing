@@ -52,7 +52,8 @@ Particular in india they are lot of good software people available
 At relatively modest salary 
 
 # Contact details 
-rajeshpremlatamishra@gmail.com 
+Here is the discord link
+https://discord.gg/t4fSdmFQXX
 
 
 # My Appeal 
