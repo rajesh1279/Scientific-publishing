@@ -51,10 +51,13 @@ Though I have not done  the calculation it can be done
 Particular in india they are lot of good software people available 
 At relatively modest salary 
 
+# Contact details 
+rajeshpremlatamishra@gmail.com 
 
 
-
-
+# My Appeal 
+When the prblem is collective,solution  has to be collective, that is why don't hasitate to communicate, be in your personal life or professional life.
+Good Luck to Reader!!!!!
 
 
 
