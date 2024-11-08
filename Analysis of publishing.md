@@ -2,13 +2,13 @@
 
 **A Brief Description of the Project**
 
-## Table of Contents
+## Problems 
 
 1. It is driven by greed, not love of discovery or helping out 
 2. A particular way of thinking  or particular direction of research which is worth of publication Is forced 
    Restricting the flow of ideas in a particular direction , which is against the scientific principle 
 3. Review in done only once and it is not verified over and over ,
-   repeatability is way so something get credibility No scope of improvement of already published papers 
+   repeatability is way  something get credibility No scope of improvement of already published papers 
 4. No space for small contribution but we all know that those small discussion among peer is what 
    Make a new idea click, leads to progress, 
 
@@ -23,7 +23,9 @@
 
 7. No place publishing for people  who are not in academics, 
 
-8. Reputation is controlled by journal, it is a form of elitism, less known author find difficult to get entry there 
+8. Reputation is controlled by journal, it is a form of elitism, less known author find difficult to get entry there
+9. Few people deciding whether something gets published or not , is deeply undemocratic. Instead what we should is, everyone should publish the work, and platform should rank them(by some 
+   publically available algo) and let people decide what importantance to give to that work. 
 
 # What We plan to do, 
 
@@ -56,7 +58,11 @@ All the financial details should be publically avalible
 
 # Contact details 
 Here is the discord link
+
+
 rajeshpremlatamishra@gmail.com
+
+
 https://discord.gg/t4fSdmFQXX
 
 
