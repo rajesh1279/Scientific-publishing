@@ -37,8 +37,14 @@
 
 4. A clear and publicly available algo to decide credibilty/ value of paper, on this part I have worked out some algo,
    they do converge, and solution is not very obvious as bad actor will try their 
-   best to misuse it, it got to be robust from any form of manipulation,  more work needed
-
+   best to misuse it, it got to be robust from any form of manipulation,  more work needed.
+5. More on algo, researcher time is valuable, and it is essentially based on trust/ reputation before someone spends time on any paper,Aim is to provide the researcher
+   a good tool for find valuable paper,now the value of paper depends personal integity (honesty),  authors competence, value of coming from various input used in paper, like    
+   dataset,methodology citations, peer reviews and values in reviews comes from indidividuals themselves having previously mentioned qualities. it forms a feedback loop. and
+   only papers that come out of this loop which indeed are valuable. 
+6. More on continuous review, By continuous review I mean process  similier to software review process of github, various people make small changes to improve the code,
+   thier contribution is acknowledged , value of code increase over time, This open review happens naturally as people read the articles, they often find points to improve but
+   there is no plateform  for scientific publish like github, 
 
 # Building community and financial bone,  
 There is nothing free in the world, we need money which can collected by all members , grants 
@@ -50,6 +56,7 @@ All the financial details should be publically avalible
 
 # Contact details 
 Here is the discord link
+rajeshpremlatamishra@gmail.com
 https://discord.gg/t4fSdmFQXX
 
 
